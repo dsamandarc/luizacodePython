@@ -14,3 +14,7 @@ fee2 = float(fee)/100
 months = float(months)
 final_value = loan_value + (loan_value*fee2*months)
 print("The final value that you will be paying the bank is:", final_value, 'reais')
+#return: Enter the amount that you will borrow:5000.00
+# Enter the fee per month [in percentage]:5
+# Enter the number of months that you will repay the loan:8
+# The final value that you will be paying the bank is: 7000.0 reais
