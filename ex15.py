@@ -6,3 +6,7 @@ energy_bill_value = float(input("Enter the value of your energy bill:"))
 number_of_residents = int(input("Enter the number of residents of the house:"))
 energy_by_residents = energy_bill_value/number_of_residents
 print("Each resident of the house will pay:", energy_by_residents, 'reais')
+#return:
+# Enter the value of your energy bill:856
+# Enter the number of residents of the house:5
+# Each resident of the house will pay: 171.2 reais
