@@ -17,3 +17,8 @@ else:
     root1 = (-b+ discriminant)/(2*a)
     root2 = (-b- discriminant)/(2*a)
     print(f'The roots of the equation are:', root1, 'and',root2)
+#return:
+# Enter de coefficient a value with the + or - sign:+4
+# Enter de coefficient b value with the + or - sign:+5
+# Enter de constant c value with the + or - sign:-6
+# The roots of the equation are: 0.75 and -2.0
