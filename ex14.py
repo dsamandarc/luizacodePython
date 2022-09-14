@@ -7,5 +7,7 @@ age_2 = int(input("Enter your age:"))
 comparison = age_1 > age_2
 if comparison == True:
     print(f'{comparison}:The first age is bigger than the second')
-    
-    
+    #return:
+# Enter your age:48
+# Enter your age:42
+# True:The first age is bigger than the second
